@@ -1,0 +1,17 @@
+1. When you run code at your side please change the input file location to your directory where soccer file is placed.
+2. Output of Programs below:
+   1.Show the team with the smallest difference in 'for' and 'against' goals--Ans: Leicester
+   2.List the top 10 teams with the highest win percentage.--Ans: Arsenal
+Liverpool
+Manchester United
+Newcastle
+Leeds
+Chelsea
+West_Ham
+Tottenham
+Middlesbrough
+Southampton
+  3.Full stats for team with the most draws (include all columns available in CSV file)--Ans: Derby
+  Team,Games,Wins,Losses,Draws,Goals,Goals Allowed,Points
+Derby,38,8,6,24,33,63,30
+  4. When code is checkout from Git run python /directorypathwherefileisplaced/Soccer.py to get output.
